@@ -4,9 +4,9 @@ const app = express();
 
 // Placeholder data
 const employees = [
-  { id: 1, name: 'Alice Johnson', position: 'Manager' },
-  { id: 2, name: 'Bob Smith', position: 'Developer' },
-  { id: 3, name: 'Carol Lee', position: 'Designer' },
+  { id: 1, name: 'Chicken Johnson', position: 'Manager' },
+  { id: 2, name: 'Bobert Smith', position: 'Developer' },
+  { id: 3, name: 'Mickie Leebron', position: 'Developer' },
 ];
 
 // GET / => "Hello employees"
